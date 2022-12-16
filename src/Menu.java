@@ -70,7 +70,13 @@ public class Menu {
 	}
 
 	public static void login() {
-		Menu.UnderConstruction();
+		
+		System.out.println("\n------ Sistema Acadêmico SA ------");
+		System.out.println("-----> Login ------");
+
+		System.out.print("\nDigite sua escolha: ");
+		String opc = sc.next();
+
 	}
 
 	public static void UnderConstruction() {
