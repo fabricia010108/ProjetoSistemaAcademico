@@ -74,8 +74,13 @@ public class Menu {
 		System.out.println("\n------ Sistema Acadêmico SA ------");
 		System.out.println("-----> Login ------");
 
-		System.out.print("\nDigite sua escolha: ");
-		String opc = sc.next();
+		System.out.print("\nDigite sru número de matrícula ");
+		String user = sc.next();
+
+		System.out.print("\nDigite sua senha: ");
+		String password = sc.next();
+
+
 
 	}
 
