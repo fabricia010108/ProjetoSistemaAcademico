@@ -7,9 +7,9 @@ public class Menu {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("\n \n--------- SEJA BEM VINDE ---------");
-		System.out.println("------ Sistema Acadêmico SA ------");
-		System.out.println("\n1 - Cadastrar estudante");
-		System.out.println("2 - Cadastrar docente");
+		System.out.println("------ :pencil2: Sistema Acadêmico SA ------");
+		System.out.println("\n1 - ✏️Cadastrar estudante");
+		System.out.println("2 - 🖊️Cadastrar docente");
 		System.out.println("3 - Sair");
 		System.out.print("\nDigite sua escolha: ");
 		String opc = sc.next();
